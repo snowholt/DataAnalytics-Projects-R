@@ -16,6 +16,9 @@ knitr::opts_chunk$set(echo = TRUE)
   
 <br>
 <br>
+### Introduction
+
+* In this project, I analyzed smart device fitness data to gain insights into how consumers use their smart devices. The goal was to help guide Bellabeat's marketing strategy and unlock new growth opportunities for the company. Through the data analysis process, I identified key patterns and trends in the data and used these insights to make high-level recommendations for Bellabeat's marketing strategy. This project demonstrates my skills in data analysis and provides tangible evidence of my ability to deliver actionable insights to drive business growth.
 <br>
 
 ### 1. Ask 
